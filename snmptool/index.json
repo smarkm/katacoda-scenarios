@@ -6,6 +6,7 @@
   "details": {
     "steps": [{
       "title": "Prepare env",
+      "code":"startSnmpd.sh",
       "text": "step1.md"
     },{
       "title": "Step 1 - Testing",
