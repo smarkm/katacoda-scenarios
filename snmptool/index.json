@@ -14,7 +14,7 @@
       "text": "step1.md"
     },{
       "title": "Step 1 - Testing",
-      "code": "courseBase.sh",
+      "code": "startSnmpd.sh",
       "text": "step2.md"
     }],
     "finish": {
