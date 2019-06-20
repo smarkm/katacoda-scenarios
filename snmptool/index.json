@@ -9,8 +9,8 @@
       "text": "step1.md"
     }],
     "intro": {
-      "text": "intro.md",
       "courseData": "courseBase.sh",
+      "text": "intro.md",
       "credits": ""
     },
     "finish": {
