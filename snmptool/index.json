@@ -5,16 +5,16 @@
   "time": "10 minutes",
   "details": {
     "intro": {
-      "code": "courseBase.sh",
       "text": "intro.md",
       "credits": ""
     },
     "steps": [{
       "title": "Prepare env",
-      "code":"startSnmpd.sh",
+      "code": "courseBase.sh",
       "text": "step1.md"
     },{
       "title": "Step 1 - Testing",
+      "code": "courseBase.sh",
       "text": "step2.md"
     }],
     "finish": {
