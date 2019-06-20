@@ -4,6 +4,11 @@
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
+    "intro": {
+      "code": "courseBase.sh",
+      "text": "intro.md",
+      "credits": ""
+    },
     "steps": [{
       "title": "Prepare env",
       "code":"startSnmpd.sh",
@@ -12,11 +17,6 @@
       "title": "Step 1 - Testing",
       "text": "step2.md"
     }],
-    "intro": {
-      "code": "courseBase.sh",
-      "text": "intro.md",
-      "credits": ""
-    },
     "finish": {
       "text": "finish.md"
     }
