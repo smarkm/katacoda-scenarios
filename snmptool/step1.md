@@ -2,6 +2,5 @@ This is your first step.
 
 ## Task
 
-This is a learning env for snmptool
-* `snmptool sys`
-* `snmptool sys 127.0.0.1`
+Now just prepare the test env.
+if you got `snmpd is runing` means all down well.
