@@ -5,8 +5,11 @@
   "time": "10 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Prepare env",
+      "title": "Prepare env",
       "text": "step1.md"
+    },{
+      "title": "Step 1 - Testing",
+      "text": "step2.md"
     }],
     "intro": {
       "code": "courseBase.sh",
