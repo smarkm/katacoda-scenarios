@@ -1,2 +1,1 @@
-service snmpd start
-service snmpd status
+snmptool version
