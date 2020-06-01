@@ -1,1 +1,1 @@
-`curl -L https://istio.io/downloadIstio | sh -` {{execute}}
+`curl -L https://istio.io/downloadIstio | sh -`{{execute}}
