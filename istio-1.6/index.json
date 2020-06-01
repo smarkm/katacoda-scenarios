@@ -1,6 +1,6 @@
 {
-    "title": "scenario",
-    "description": "s",
+    "title": "Istio 1.6 Intro",
+    "description": "istio scenarios",
     "difficulty": "easy",
     "time": "10 minutes",
     "details": {
@@ -29,7 +29,7 @@
         "uilayout": "terminal-terminal"
     },
     "backend": {
-        "imageid": "kubernetes-cluster"
+        "imageid": "kubernetes-cluster-running:1.18"
     
     }
 }
