@@ -1,1 +1,2 @@
+clear &&
 snmptool version
