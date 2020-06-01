@@ -1,0 +1,1 @@
+This scenario aim at to take a env for play base on [Istio Get Started](https://istio.io/docs/setup/getting-started/) to throw the book example, the env build on 2 node `k8s 1.18 cluster` and istio 1.6 case.
